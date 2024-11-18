@@ -6,4 +6,7 @@ def fibonacci_series(n):
 
 # Specify the number of terms
 num_terms = 10
+
+print("Printing Fibonacii Series. # This print statement is the modification to the code.")
+
 fibonacci_series(num_terms)
